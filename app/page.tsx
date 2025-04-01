@@ -17,7 +17,7 @@ export default function Home() {
         </div>
         <div className="relative h-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center">
           <h1 className="text-4xl md:text-6xl font-bold text-white">
-            PRESENTE DE EZEQUIEL
+            PRESENTE DO WILL
           </h1>
         </div>
       </div>
@@ -31,7 +31,7 @@ export default function Home() {
           </h2>
           
           <p className="text-lg text-gray-700 mb-4">
-            Este é o modelo exato de negociação mais o indicador MACD personalizado que eu uso pessoalmente para minhas operações.
+            Este são os sinais que me renderam mais de 400 mil dólares e que eu uso pessoalmente para minhas operações.
           </p>
           <p className="text-lg text-gray-700 mb-8">
             Agora é seu, de graça.
@@ -50,7 +50,7 @@ export default function Home() {
         {/* Instructions Section */}
         <div className="space-y-6">
           <p className="text-lg text-gray-700">
-            Agora, use as metodologias ensinadas no Webinar &quot;Como Ganhar Muito Dinheiro Com Trading&quot; junto com este modelo.
+            Agora, use as metodologias ensinadas na aula "O Segredo dos Novos Ricos".
           </p>
           <p className="text-lg text-gray-700">
             Você está a caminho de assumir o controle da sua carreira em trading e começar a ganhar MUITO dinheiro a partir de agora!
@@ -60,7 +60,7 @@ export default function Home() {
         {/* Signature Section */}
         <div className="pt-8 border-t border-gray-200">
           <p className="text-lg text-gray-700">Seu amigo e mentor,</p>
-          <p className="text-xl font-semibold text-gray-900">Ezequiel Chew</p>
+          <p className="text-xl font-semibold text-gray-900">Willian Aksenen</p>
         </div>
       </div>
     </main>
