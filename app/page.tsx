@@ -40,7 +40,7 @@ export default function Home() {
           {/* Download Button */}
           <Button 
             className="bg-blue-600 hover:bg-blue-700 text-white flex items-center gap-2 text-lg px-6 py-3"
-            onClick={() => window.open("#", "_blank")}
+            onClick={() => window.open("https://t.me/copycashforexfree", "_blank")}
           >
             <Download className="w-5 h-5" />
             Baixe aqui
