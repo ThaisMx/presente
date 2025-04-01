@@ -10,8 +10,8 @@ export default function Home() {
       <div className="relative h-[33vh] bg-[#D35400] overflow-hidden">
         <div className="absolute inset-0">
           <img
-            src="https://raw.githubusercontent.com/ThaisMx/presente/refs/heads/main/public/ezequiel.jpg"
-            alt="Ezequiel com café Starbucks"
+            src="https://raw.githubusercontent.com/ThaisMx/presente/refs/heads/main/public/will.jpg"
+            alt="Will com café Starbucks"
             className="w-full h-full object-cover opacity-40"
           />
         </div>

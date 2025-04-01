@@ -6,7 +6,7 @@ import Script from 'next/script';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Presente do Ezequiel - Template de Trading',
+  title: 'Presente do Will - Template de Trading',
   description: 'Template de negociação exclusivo com indicador MACD personalizado',
 };
 
