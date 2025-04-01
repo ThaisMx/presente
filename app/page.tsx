@@ -43,7 +43,7 @@ export default function Home() {
             onClick={() => window.open("https://t.me/copycashforexfree", "_blank")}
           >
             <Download className="w-5 h-5" />
-            Baixe aqui
+            Resgate seu presente
           </Button>
         </div>
 
