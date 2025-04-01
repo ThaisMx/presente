@@ -2,6 +2,7 @@
 
 import { Button } from "@/components/ui/button";
 import { Download } from "lucide-react";
+import Image from "next/image";
 
 export default function Home() {
   return (
@@ -9,10 +10,13 @@ export default function Home() {
       {/* Banner/Header Section */}
       <div className="relative h-[33vh] bg-[#D35400] overflow-hidden">
         <div className="absolute inset-0">
-          <img
+          <Image
             src="/ezequiel.jpg"
             alt="Ezequiel com café Starbucks"
-            className="w-full h-full object-cover opacity-40"
+            fill
+            style={{ objectFit: 'cover' }}
+            className="opacity-40"
+            priority
           />
         </div>
         <div className="relative h-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center">
