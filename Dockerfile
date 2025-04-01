@@ -33,7 +33,6 @@ ENV NEXT_PUBLIC_BASE_URL=https://lp.willaksenen.com.br
 ENV NEXT_PUBLIC_BASE_PATH=/presente
 
 # Copia os arquivos necessários
-COPY --from=builder /app/public ./public
 COPY --from=builder /app/.next/standalone ./
 COPY --from=builder /app/.next/static ./.next/static
 
