@@ -11,7 +11,7 @@ export default function Home() {
       <div className="relative h-[33vh] bg-[#D35400] overflow-hidden">
         <div className="absolute inset-0">
           <Image
-            src="/ezequiel.jpg"
+            src="/ezequiel.jpeg"
             alt="Ezequiel com café Starbucks"
             fill
             style={{ objectFit: 'cover' }}
